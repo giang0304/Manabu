@@ -147,14 +147,11 @@ button:hover {
     }
 }
 
-@media only screen and (min-width: 769px) {
-    .table-of-content {
-        display: none;
-    }
-}
-
 @media only screen and (min-width: 992px) {
     .tablet-size {
+        display: none;
+    }
+    .table-of-content {
         display: none;
     }
 }

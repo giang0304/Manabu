@@ -19,10 +19,9 @@ You can also go to any other pages and click on the Manabu logo on the header to
 
 Disclaimer:
 
+- The graphical illustrations on the website are my original ones.
 - Most photos used on the website are from Unsplash - a platform that grants full permission of using their images.
-
 - Citations sites (sources) for the content of each article is credited at the bottom of the page.
 
-- The graphical illustrations on the website are my original ones.
 
 
