@@ -3,7 +3,7 @@
 
 Overview of the project
 
-- The index page (homepage) is manner-website.html. 
+- The index page (homepage) is manner-website.html. Please view the website from there first.
 
 You can also go to any other pages and click on the Manabu logo on the header to return to this homepage.
 
@@ -22,6 +22,7 @@ Disclaimer:
 - The graphical illustrations on the website are my original ones.
 - Most photos used on the website are from Unsplash - a platform that grants full permission of using their images.
 - Citations sites (sources) for the content of each article is credited at the bottom of the page.
+- In the "For your information" and "Maybe you didn't know" sections on the web, I included links to other websites. The photos I added in that section is from that linked website and it acts as a thumbnail for it.
 
 
 

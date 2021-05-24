@@ -166,33 +166,6 @@ button:hover {
     }
 }
 
-.min-100 {
-    min-height: 100vh;
-}
-
-.navbar.affix-top,
-.navbar.affix-bottom {
-    position: static;
-}
-
-.navbar.affix {
-    position: fixed;
-    width: 100%;
-    top: 0;
-    z-index: 1;
-    background: #fff;
-    transition: all .35s ease;
-}
-
-#sidemenu.affix-top,
-#sidemenu.affix {
-    position: static;
-}
-
-#sidemenu.affix-bottom {
-    position: relative;
-}
-
 @media (min-width: 768px) {
     #sidemenu.affix {
         position: fixed;

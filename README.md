@@ -1,2 +1,0 @@
-# Manabu
- Japanese Manners
